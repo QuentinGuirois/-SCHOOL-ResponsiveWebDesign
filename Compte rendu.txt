@@ -1,0 +1,37 @@
+Hello la team Correction ! 
+
+J'éspère que vous allez bien.
+Tout d'abord, je me suis planté au départ de l'épreuve, j'ai lu l'ennoncé, et suite à sa description j'ai directement commencé les maquettes. 
+Je n'ai vu que plus tard qu'il y avait un screen de la maquette dans le dossier de téléchargement....
+Donc mes zoning/Wireframes Auraient pu être (beaucoup) plus rapide.
+
+J'étais stressé, et au départ j'ai fait n'importe quoi. J'avais du mal avec les Flexboxes.
+Puis je me suis repris, et ça a été.
+
+Mon gros problème sur cet éxercice a été l'écriture, et le rangement de mon code. Il est pas du tout DRY ha ha ha, je n'ai pas eu le temps de tout ranger et regrouper...
+Je suis trop lent....
+
+Je me suis permis d'instaler un pageSlide de la nav, dans l'énnoncé c'est assez ambigu, en effet : 
+
+"Sur mobile, tous les éléments en ligne pâssent en colonne"
+La navigation est en ligne.
+Donc de ce constat, elle doit être présentée en colonne, mais c'est bien plus présentable avec une slide.
+Comme il n'y avait pas de contre indication à ce sujet, j'ai éstimé que cette solution était plus ergonomique et dynamique.
+J'éspère ne pas m'être planté !
+
+Mis à part ça, j'aurais peut être pu contrôler le slide des images et l'étendre sur la hauteur en version mobile, pour que l'image ne soit pas trop petite.
+J'aurais aussi pu mettre la vidéo sur desktop un peu plus grande.
+
+Evidement, ma gestion des flexboxes est plus qu'approximative, je suis certain que mon code est très lourd, qu'il y a trop de div etc.
+
+J'ai fait ce que j'ai pu !
+
+Merci de m'avoir lu !
+
+Quentin 
+
+*EDIT POST EXAMEN, DONC A NE PAS TENIR COMPTE POUR L'EVALUATION*
+
+J'ai placé un fichier CSS et HTML (sansSlide). Enfait j'avais mal compris l'énoncé. 
+J'avais mal visualisé les éléments en colonne du menu sur smartphone, j'aurais du proposer mes deux solutions le jour de l'examen plutôt que de n'en proposer qu'une seule.
+Tant pi pour moi ! Bonne journée =)

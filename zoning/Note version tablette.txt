@@ -1,0 +1,2 @@
+Sur support Tablette, la version sera presque identique à la version desk.
+Changeront éventuellement la taille de la typo, et la disposition des blocks (flexboxes).
